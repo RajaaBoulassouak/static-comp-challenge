@@ -1,0 +1,43 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFFF;
+    width: 100%;
+    text-align: center;
+    float: center;
+    display: flex;
+  }
+  
+li {
+    color: white;
+    padding: 5px;
+    width: 10%;
+    text-align: center;
+  }
+
+body {
+      font-family: 'Raleway', sans-serif;
+      background: #DCDCDC
+    }
+
+.main_page {
+       text-align: left;
+      }
+
+#super-heading {
+                text-align: left;
+                font-size: 75px;
+              }
+
+#sub-heading {
+              text-align: left;
+              font-size: 60px;
+            }
+
+#android-img {
+              width: 30%;
+              height: 30%;
+              align: left;
+              padding-left: 10%;
+            }
